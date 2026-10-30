@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+jspm_packages/
+
+# Entornos virtuales / Python (si aplica)
+venv/
+env/
+__pycache__/
+
+# Variables de entorno y secretos
+.env
+.env.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Compilados / Builds
+dist/
+build/
+*.log
